@@ -1,14 +1,18 @@
 # Table of contents
 
 * [Versions](README.md)
-  * [v 0.19.x](versions/v-0.19.x/README.md)
-    * [User Documentation](versions/v-0.19.x/user-documentation/README.md)
-      * [Getting Started](versions/v-0.19.x/user-documentation/getting-started.md)
-    * [System Administration](versions/v-0.19.x/system-administration.md)
+  * [Current](readme/current/README.md)
+    * [User Documentation](readme/current/user-documentation/README.md)
+      * [Getting Started](readme/current/user-documentation/getting-started.md)
+    * [System Administration](readme/current/system-administration.md)
   * [v 1.0.x](versions/v-1.0.x/README.md)
     * [User Documentation](versions/v-1.0.x/user-documentation/README.md)
       * [Getting Started](versions/v-1.0.x/user-documentation/getting-started.md)
     * [System Administration](versions/v-1.0.x/system-administration.md)
+  * [v 0.19.x](versions/v-0.19.x/README.md)
+    * [User Documentation](versions/v-0.19.x/user-documentation/README.md)
+      * [Getting Started](versions/v-0.19.x/user-documentation/getting-started.md)
+    * [System Administration](versions/v-0.19.x/system-administration.md)
 
 ## Guides
 
