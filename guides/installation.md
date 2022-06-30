@@ -6,7 +6,7 @@
 
 ## The basics
 
-Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
+Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or shipasdfsdfsadgdfgsd a project.
 
 ## Creating a project
 
