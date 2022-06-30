@@ -1,16 +1,5 @@
 # Getting Started
 
-### Single Source of Truth
-
-The CGR provides a single source of truth for your data. At a high level this means you have one place (the CGR) to go to for getting or updating your data rather than different files that are in different formats and require different systems. At a lower level this means that one single data element should be represented once in hte system. For example, there should be only one instance of a specific country in the system.
-
-### Geo-Object
-
-The Geo-Object is the central concept in the GeoRegistry, and it is the lowest-level piece of geographic data in the system.  A Geo-Object is instance level data meaning it represents specific geographies in place and time (i.e. a health facility). If you are familiar with DHIS2, you may know this as an organization unit. Each Geo-Object directly translates into a single row in a MasterList.&#x20;
-
-#### Geo-Object Attributes
-
-A Geo-Object has attributes which provide meaningful descriptive data about a geography.  Geo-Objects have a set of default attributes like display label that are on all objects but additional attributes can be added to store more information about geographies.
 
 #### Geo-Object Geometries
 
